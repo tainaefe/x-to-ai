@@ -42,6 +42,7 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 * Hypotenuse AI
 * Peppertype.ai
 
+
 ## Text-to-Code
 
 * replit Ghostwriter
