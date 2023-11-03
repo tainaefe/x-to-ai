@@ -2,6 +2,7 @@
 List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-code, etc.)
 
 ## Text-to-Text
+
 * Chat GPT
 * Jasper
 * Simplified
@@ -42,6 +43,7 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 * Peppertype.ai
 
 ## Text-to-Code
+
 * replit Ghostwriter
 * GitHub Copilot
 * Mutable AI
@@ -74,6 +76,7 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 * stability.ai
 
 * ## Text-to Video
+* 
 * runway
 * Fliki
 * synthesia
@@ -92,30 +95,37 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 
 
 ## Text-to-Motion
+
 * Tree Ind.
 * MDM: Human Motion Diffusion Model
 
 ## Text-to-Nft
+
 * LenseAI
 
 ## Text-to-3D
+
 * DreamFusion
 * CLIP-Mesh
 * GET3D
 
 ## Audio-to-Text
+
 * Descript
 * AssemblyAI
 * Whisper
 
 ## Audio-to-Audio
+
 * AudioLM
 * VOICEMOD
 
 ## Brain-to-Text
+
 * speech from brain
 * non-invasive brain recordings
 
 ## Image-to-Text
+
 * neural.love
 * GPT-3 x Image Captions
