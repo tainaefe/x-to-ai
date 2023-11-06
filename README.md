@@ -2,7 +2,6 @@
 List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-code, etc.)
 
 ## Text-to-Text
-
 * Chat GPT
 * Jasper
 * Simplified
@@ -44,14 +43,13 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 
 
 ## Text-to-Code
-
 * replit Ghostwriter
-* GitHub Copilot
-* Mutable AI
+* gitHub Copilot
+* mutable AI
 * tabnine
-* Amzon CodeWhisper
+* amzon CodeWhisper
 
-* ## Text-to-Image
+## Text-to-Image
 * DALL-E
 * Stable Diffusion
 * craiyon
@@ -76,8 +74,7 @@ List of AI models and platforms sorted by x-to-x (e.g. text-to-text, text-to-cod
 * PhotoRoom
 * stability.ai
 
-* ## Text-to Video
-* 
+## Text-to Video 
 * runway
 * Fliki
 * synthesia
